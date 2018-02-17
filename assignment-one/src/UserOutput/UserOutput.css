@@ -1,0 +1,5 @@
+.UserOutput p {
+  font-size: 20px;
+  line-height: 1.5em;
+  color: hsla(50, 150%, 20%, 1);
+}
