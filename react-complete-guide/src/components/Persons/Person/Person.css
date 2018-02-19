@@ -7,3 +7,10 @@
   padding: 16px;
   text-align: center;
 }
+
+
+@media (max-width: 500px) {
+  .Person {
+    width: 80%;
+  }
+}
